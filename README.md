@@ -8,4 +8,4 @@ The "Beach" moodbored was created to assist with planning a beach holiday, colla
 
 Call on the the Moonboard for inspiration for your next "beachy" project.
 
-! [Mood Board](./moodboard.png "Beach MoodBoard")
+! [Mood Board](./moodboard.jpg "Beach MoodBoard")
